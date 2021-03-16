@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on 
-  - :rocket: Spacecraft charging in Ionosphere using Particle-In-Cell method.
-  - :moon: Probe performance in photo emissive lunar environment using Particle-In-Cell method.
-  - :ocean: Instability and turbulence in plasma using Particle-In-Cell method.
+  - :rocket: Spacecraft charging in Ionosphere.
+  - :moon: Probe performance in photo emissive lunar environment.
+  - :ocean: Instability and turbulence in plasma.
 <!-- - 🌱 I’m currently learning ... -->
 - 👯 I’m looking to collaborate on 
   - :handshake: Open sourced projects on scientific or community development issues. 

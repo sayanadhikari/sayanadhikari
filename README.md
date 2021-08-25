@@ -14,5 +14,5 @@
   - :bar_chart: Data visulization techniques
 - 📫 How to reach me: [Email](mailto:sayanadhikari207@gmail.com), [@sayanadhikari](https://twitter.com/sayanadhikari)
 <!-- - 😄 Pronouns: ...-->
-- ⚡ Fun fact: 	:man_cook: I like cooking as much as I like coding.
+<!-- - - ⚡ Fun fact: 	:man_cook: I like cooking...-->
 <!-- -->

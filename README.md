@@ -5,7 +5,7 @@
   - :moon: Probe performance in photo emissive lunar environment.
   - :ocean: Instability and turbulence in plasma.
 <!-- - 🌱 I’m currently learning ... -->
-- :handshake:I’m looking to collaborate on 
+- :handshake: I’m looking to collaborate on 
   - Open sourced projects on scientific or community development issues. 
 <!-- - 🤔 I’m looking for help with ...-->
 - 💬 Ask me about 

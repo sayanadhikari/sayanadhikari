@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on 
+- 🔭 I’m currently working on
+  - :factory: Mathematical modelling of materials processing
+- :paw_prints: I have worked on
   - :rocket: Spacecraft charging in Ionosphere.
   - :moon: Probe performance in photo emissive lunar environment.
   - :ocean: Instability and turbulence in plasma.

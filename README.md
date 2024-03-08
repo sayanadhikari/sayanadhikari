@@ -2,6 +2,8 @@
 
 - 🔭 I’m currently working on
   - :factory: Mathematical modelling of materials processing
+  - :rotating_light: Development of Digital Twin for process industries 
+  - :wrench: Automation tools for Product Quality 
 - :paw_prints: I have worked on
   - :rocket: Spacecraft charging in Ionosphere.
   - :moon: Probe performance in photo emissive lunar environment.
